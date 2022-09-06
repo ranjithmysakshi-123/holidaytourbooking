@@ -1,0 +1,205 @@
+#navbar{
+
+        margin-top: -25px;
+        width: 103%;
+        height: 100px;
+        background-color:rgb(53, 188, 237); 
+        float:right;   
+ }
+
+#main{
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    list-style: none;
+    font-weight: bold;
+    margin-left: 550px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+.li1{
+    padding-top: 30px;
+    text-align: center;
+    margin-top: -22px;
+    height: 50px;
+    width: 120px;
+    margin-left: -40px;
+    margin-right: 100px;
+
+}
+.li1:hover{
+    padding-top: 35px;
+    text-align: center;
+    margin-top: -22px;
+   
+    
+}
+
+a{
+    color:white;
+    text-decoration: none;    
+    margin-left: 100px;
+    margin-top: -50;
+}
+
+
+.sublist{
+    margin-left: -45px;
+    padding-bottom: 20px;
+  
+}
+
+body{
+    background-color: rgb(138, 231, 205);
+    background-repeat: no-repeat;
+background-image: url(./jammu\ kashmir.jpg);
+background-size: 100% 700px;
+
+}
+
+h1{
+    color: yellow;
+    padding-top: 200px;
+    font-size: 50px;
+    margin-left: 50px;
+}
+#h2{
+    color: yellow;
+    font-size: 25px;
+    margin-left: 250px;
+    
+}
+
+#img1{
+width: 20%;
+height: 200px;
+margin-top: 350px;
+margin-left: 35px;
+border-radius: 10px;
+}
+
+#img2{
+    width: 20%;
+    height: 200px;
+    margin-top: 350px;
+    margin-left: 80px;
+    border-radius: 10px;
+    }
+
+    #img3{
+        width: 20%;
+        height: 200px;
+        margin-top: 350px;
+        margin-left: 80px;
+        border-radius: 10px;
+        }
+
+        #img4{
+            width: 20%;
+            height: 200px;
+            margin-top: 350px;
+            margin-left: 80px;
+            border-radius: 10px;
+            }
+.kk1{
+    color:rgb(241, 59, 59);
+    margin-left: 60px;
+    text-decoration: underline;
+}
+.kk2{
+    color:rgb(241, 59, 59);
+    margin-left: 510px;
+    margin-top: -50PX;
+    text-decoration: underline;
+}
+.kk3{
+    color:rgb(241, 59, 59);
+    margin-left: 900px;
+    margin-top: -50PX;
+    text-decoration: underline;
+}
+.kk4{
+    color:rgb(241, 59, 59);
+    margin-left: 1300px;
+    margin-top: -50PX;
+    text-decoration: underline;
+}
+
+#p1{
+   
+    width: 22%;
+    height: 300px;
+    text-align: justify;
+}
+#p2{  
+    width: 22%;
+    width: 22%;
+    text-align: justify;
+    margin-left: 390px;
+    margin-top: -350px;
+}
+#p3{ 
+    width: 22%;
+    width: 22%;
+    text-align: justify;
+    margin-left: 800px;
+    margin-top: -300px;
+}
+#p4{  
+    width: 22%;
+    width: 22%;
+    text-align: justify;
+    margin-left: 1200px;
+    margin-top: -180px;
+}
+
+#selpck1{
+   
+    font-size: 20px;
+    margin-top: 50PX;
+    margin-left: -50px;
+}
+#selpck2{
+    
+    font-size: 20px;
+   margin-left: 100px;
+}
+#selpck3{
+    
+    font-size: 20px;
+    margin-left: 70px;
+}
+#selpck4{
+    
+    font-size: 20px;
+    margin-left: 1150px;
+    margin-top: -200px;
+    
+}
+
+#pav1{
+    font-size: 40px;
+margin-left: 50px;
+margin-top: -180px;
+color: rgb(202, 13, 176);
+}
+#pav2{
+    font-size: 40px;
+margin-left: 450px;
+margin-top: -280px;
+color: rgb(202, 13, 176);
+}
+#pav3{
+    font-size: 40px;
+margin-left: 860px;
+margin-top: -280px;
+color: rgb(202, 13, 176);
+}
+#pav4{
+    font-size: 40px;
+margin-left: 1300px;
+margin-top: -260px;
+color: rgb(202, 13, 176);
+}
